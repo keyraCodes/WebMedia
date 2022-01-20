@@ -12,4 +12,12 @@
 
 [cock](https://keyracodes.github.io/WebMedia/cock.gif)
 
+[pullout](https://keyracodes.github.io/WebMedia/pullout.png)
+
+[binrate](https://keyracodes.github.io/WebMedia/binrate.png)
+
+[sahid](https://keyracodes.github.io/WebMedia/sahid.png)
+
+[chungus](https://keyracodes.github.io/WebMedia/chungus.png)
+
 
